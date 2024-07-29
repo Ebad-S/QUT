@@ -25,7 +25,7 @@ Details about assignments....
 <!-- - [Assignment 1: Title](path/to/assignment1)
 - [Assignment 2: Title](path/to/assignment2) -->
 
-*... add more assignments as they are given ...*
+*... more assignments will be added as they are given ...*
 
 ## Projects
 
@@ -34,7 +34,7 @@ Details about projects....
 - [Project 1: Title](path/to/project1)
 - [Project 2: Title](path/to/project2) -->
 
-*... add more projects as they are given ...*
+*... more projects will be added as they are given ...*
 
 ## Resources
 
@@ -61,9 +61,9 @@ I encourage contributions to improve this repository. If you have any suggestion
 
 ## Contact
 
-<!-- For any questions or concerns, please contact:
+For any questions or concerns, please contact:
 
-- Professor [Name] - [Email Address]
+<!-- - Professor [Name] - [Email Address]
 - Teaching Assistant [Name] - [Email Address] -->
 
 ---
