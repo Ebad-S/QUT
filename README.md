@@ -22,8 +22,9 @@ Welcome to the QUT Course Repository. This repository contains all the materials
 
 Details about assignments.... 
 
-<!-- - [Assignment 1: Title](path/to/assignment1)
-- [Assignment 2: Title](path/to/assignment2) -->
+- For more details, visit the [assignment page on Canvas](https://canvas.qutonline.edu.au/courses/1665/assignments/7662).
+  
+<!-- - [Assignment 2: Title](path/to/assignment2) -->
 
 *... more assignments will be added as they are given ...*
 
