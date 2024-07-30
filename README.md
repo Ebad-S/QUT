@@ -20,12 +20,10 @@ Welcome to the QUT Course Repository. This repository contains all the materials
 
 ## Assignments
 
-Details about assignments.... 
+Details about assignments....
 
-- For more details, visit the assignment page on Canvas:
-<a href="https://canvas.qutonline.edu.au/courses/1665/assignments/7662" target="_blank">visit the assignment page on Canvas</a>.
+- more details, visit on (Canvas) [Assignment 1: Programming exercises](https://canvas.qutonline.edu.au/courses/1665/assignments/7662)
 
-  
 <!-- - [Assignment 2: Title](path/to/assignment2) -->
 
 *... more assignments will be added as they are given ...*
